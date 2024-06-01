@@ -1,4 +1,4 @@
-# 🚀 Vocabinary - Your Ultimate English Vocabulary App 🚀
+# 🚀 Vocabinary - Your Ultimate English Vocabulary App
 
 Welcome to Vocabinary, the coolest way to master English vocabulary! This project is your one-stop solution to create, manage, and learn vocabulary through engaging flashcards and interactive quizzes. Inspired by the popular Quizlet app, Vocabinary is designed to make vocabulary learning fun and effective. Let's dive into what makes Vocabinary awesome!
 
@@ -29,17 +29,16 @@ Vocabinary is a cross-platform mobile application that supports users in learnin
 ### 🌐 Community Features
 - **Public/Private Topics**: Set topics as public or private.
 - **User Participation**: Allow users to learn from public topics.
-- 
 ## 🛠️ Technical Details
 
-### 📂 Project Structure
+### 📂 Project Technology
 - **Frontend**: Built with Flutter for a seamless cross-platform experience.
-- **Backend**: Uses Firebase for authentication and data storage.
-- **Database**: Combines local SQLite for caching and Firebase for online storage.
-
-### 🔍 Data Management
-- **Local Storage**: Ensures the app works offline with local caching.
-- **Remote Storage**: Syncs data across devices using Firebase.
+- **Backend**: Powered by Firebase for robust and scalable backend services.
+- **Database**: Combines local SQLite for caching and Firebase Firestore for online storage.
+- **Authentication**: Utilizes Firebase Authentication for secure login and account management.
+- **Storage**: Firebase Storage for storing user-generated content.
+- **Hosting**: Firebase Hosting for deploying the web version of the app.
+- **Analytics**: Firebase Analytics for tracking user engagement and app performance.
 
 ## 📊 Detailed Feature Description
 
@@ -52,8 +51,7 @@ Vocabinary is a cross-platform mobile application that supports users in learnin
 ### Vocabulary List Management
 1. **Topic Creation**: Create topics with unlimited vocabulary words.
 2. **Folder Management**: Optional folder creation to group topics.
-3. **Import/Export**: Seamless import/export of vocabulary lists.
-4. **Pronunciation**: Click on words to hear their pronunciation.
+3. **Pronunciation**: Click on words to hear their pronunciation.
 
 ### Learning Vocabulary
 1. **Flashcards**: Interactive flashcards with automatic pronunciation.
@@ -62,7 +60,6 @@ Vocabinary is a cross-platform mobile application that supports users in learnin
 
 ### Community and Online Features
 1. **Public Topics**: Share topics with the community.
-2. **Rankings**: Compete with others and track your progress.
 
 ## 🚀 Getting Started
 
