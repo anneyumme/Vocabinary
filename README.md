@@ -61,9 +61,12 @@ Vocabinary is a cross-platform mobile application that supports users in learnin
 ### Community and Online Features
 1. **Public Topics**: Share topics with the community.
 
+## 📹 Video Demo
+
+Check out our [Video Demo](https://www.youtube.com/watch?v=I2xoZQVfFqQ) to see Vocabinary in action!
+
+[![FlashLearn Demo](https://img.youtube.com/vi/I2xoZQVfFqQ/0.jpg)](https://www.youtube.com/watch?v=I2xoZQVfFqQ)
 
 ---
-
-Thank you for checking out Vocabinary! We hope this app makes your vocabulary learning journey exciting and fruitful. If you have any questions or feedback, feel free to reach out to us. Happy learning! 🎉
 
 ---
