@@ -1,10 +1,10 @@
-# 🚀 Vocabinary - Your Ultimate English Vocabulary App
+# 🚀 Vocabinary - Final Project Vocabulary App
 
-Welcome to Vocabinary, the coolest way to master English vocabulary! This project is your one-stop solution to create, manage, and learn vocabulary through engaging flashcards and interactive quizzes. Inspired by the popular Quizlet app, Vocabinary is designed to make vocabulary learning fun and effective. Let's dive into what makes Vocabinary awesome!
+Welcome to Vocabinary, the coolest way to master English vocabulary! This project is one-stop solution to create, manage, and learn vocabulary through engaging flashcards and interactive quizzes. Inspired by the popular Quizlet app, Vocabinary is designed to make vocabulary learning fun and effective. Let's dive into what makes Vocabinary awesome!
 
 ## 📱 Project Overview
 
-Vocabinary is a cross-platform mobile application that supports users in learning English vocabulary through flashcards, quizzes, and typing exercises. Whether you're a beginner or an advanced learner, Vocabinary has got you covered!
+Vocabinary is a cross-platform mobile application that supports users in learning English vocabulary through flashcards, quizzes, and typing exercises.
 
 ## 🌟 Key Features
 
@@ -61,16 +61,6 @@ Vocabinary is a cross-platform mobile application that supports users in learnin
 ### Community and Online Features
 1. **Public Topics**: Share topics with the community.
 
-## 🚀 Getting Started
-
-### Prerequisites
-- **Flutter**: Install Flutter SDK.
-- **Firebase**: Set up Firebase for authentication and database.
-
-### Installation
-1. **Clone the Repo**: `git clone https://github.com/your-username/Vocabinary.git`
-2. **Install Dependencies**: `flutter pub get`
-3. **Run the App**: `flutter run`
 
 ---
 
